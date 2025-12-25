@@ -50,6 +50,8 @@ This is a **learning-driven UI engineering project**, focused on writing clean, 
 
 ![HiChat UI Preview](preview.gif)
 
-▶️ Full interaction video:  
-https://github.com/sumitha05/Hichat/preview.mp4
 
+## Preview
+
+[![HiChat UI Preview](https://img.youtube.com/vi/kiGibwaOitQ/maxresdefault.jpg)]
+(https://www.youtube.com/watch?v=kiGibwaOitQ)
