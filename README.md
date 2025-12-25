@@ -53,5 +53,5 @@ This is a **learning-driven UI engineering project**, focused on writing clean, 
 
 ## Preview
 
-[![HiChat UI Preview](https://img.youtube.com/vi/kiGibwaOitQ/maxresdefault.jpg)]
+[![HiChat UI Preview](https://img.youtube.com/vi/7GyC-TUh3-M/maxresdefault.jpg)]
 (https://www.youtube.com/watch?v=kiGibwaOitQ)
