@@ -1,4 +1,4 @@
-# HiChat — UI Engineering Practice
+# HiChat - UI Engineering Practice
 
 This repository documents my process of converting an early-stage UI design into a functional website as part of my **UI engineering practice**.
 
