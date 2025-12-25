@@ -44,3 +44,6 @@ This repo will evolve as I continue refining layout, responsiveness, and interac
 
 This is a **learning-driven UI engineering project**, focused on writing clean, accessible, and maintainable frontend code.
 
+## Progress So Far
+
+![preview](https://github.com/user-attachments/assets/73ddc384-4015-4728-ac4e-1b050609cd53)
