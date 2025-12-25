@@ -1,0 +1,19 @@
+.hero-section {
+    display: flex;
+    flex-direction: column;
+    height: 700px;
+    background: linear-gradient(135deg, #3B4E9D, #B6B7B8);
+}
+
+.hero-section h1 {
+  font-family: 'Roboto Flex', system-ui, sans-serif;
+  color: white;
+  font-weight: 800;
+  font-size: 80px;
+}
+
+.hero-section p {
+    color: white;
+    font-size: 16px;
+}
+
