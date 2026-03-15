@@ -19,13 +19,13 @@
 }
 
 .features button {
-    padding: 12px 24px;
+    padding: 14px 24px;
     border: none;
     border-radius: 40px;
     background-color: #35499C;
     color: white;
     font-family: 'Mulish', system-ui, sans-serif;
-    font-size: 16px;
+    font-size: 20px;
     cursor: pointer;
     transition:
         box-shadow 0.2s ease-out,
