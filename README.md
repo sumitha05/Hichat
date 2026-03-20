@@ -6,7 +6,7 @@ Rather than just recreating visuals, the focus was on **translating design inten
 
 ---
 
-## 🚀 Overview
+## Overview
 
 HiChat is a modern landing page for a messaging platform, designed and developed with an emphasis on:
 
@@ -17,7 +17,7 @@ HiChat is a modern landing page for a messaging platform, designed and developed
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Bridge the gap between **UI/UX design and frontend development**
 - Strengthen fundamentals in **semantic HTML and scalable CSS**
@@ -26,7 +26,7 @@ HiChat is a modern landing page for a messaging platform, designed and developed
 
 ---
 
-## 🧩 Features Implemented
+## Features Implemented
 
 - Semantic page structure (header, navigation, sections, footer)
 - Fully structured hero section with animation
@@ -49,7 +49,7 @@ HiChat is a modern landing page for a messaging platform, designed and developed
 
 ---
 
-## 🧠 Key Learnings
+## Key Learnings
 
 - Handling layout edge cases (like overflow and spacing bugs)
 - Understanding how positioning affects real-world UI behavior
@@ -59,7 +59,7 @@ HiChat is a modern landing page for a messaging platform, designed and developed
 
 ---
 
-## 📌 Project Status
+## Project Status
 
 ✅ Completed (Initial Version)  
 🔄 Future Improvements Planned:
@@ -70,7 +70,7 @@ HiChat is a modern landing page for a messaging platform, designed and developed
 
 ---
 
-## 💡 Intent
+## Intent
 
 This project is part of my **UI Engineering practice**, where I focus on building interfaces that are:
 
@@ -80,13 +80,13 @@ This project is part of my **UI Engineering practice**, where I focus on buildin
 
 ---
 
-## 📸 Preview
+## Preview
 
 ![HiChat UI Preview](preview_full.png)
 
 ---
 
-## 🔗 Next Steps
+## Next Steps
 
 I’ll continue refining this project while building more complex interfaces, moving toward:
 
