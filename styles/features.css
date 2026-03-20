@@ -19,7 +19,7 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin-bottom: 60px;
+    
 }
 
 .features button {
@@ -54,4 +54,42 @@
     align-items: center;
     justify-content: center; 
     gap: 180px;
+}
+
+.features-2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 80px;
+    background: linear-gradient(135deg, #B0B6C6, #FFFFFF);
+    padding: 80px 0 120px 0;
+}
+
+.cards-section {
+    display: flex;
+    /* width: 100%; */
+    align-items: center;
+    justify-content: space-between;
+    /* padding: 0 80px 0 80px; */
+    gap: 60px;
+}
+
+.cards {
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    padding: 30px 30px;
+    border-radius: 20px;
+    width: 360px;
+    gap: 30px;
+}
+
+.card-gif {
+    width: 240px;
+}
+
+.card-content {
+    display: flex;
+    flex-direction: column;
 }
