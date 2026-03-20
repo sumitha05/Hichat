@@ -6,8 +6,8 @@
 
 .footer h3 {
     margin: 0;
-    font-size: 20px;
-    font-weight: 700;
+    font-size: 22px;
+    font-weight: 600;
 }
 
 .footer li {
@@ -17,11 +17,17 @@
 }
 
 .footer li:hover {
-    text-decoration: underline;
+    color: #35499C;
+    font-weight: 500;
+}
+
+.content-items {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
 }
 
 .footer-top-section {
-    background-color: lightblue;
     display: flex;
     gap: 120px;
     padding: 120px;
@@ -29,16 +35,15 @@
 }
 
 .top-content {
-    background-color: bisque;
     display: flex;
     width: fit-content;
-    gap: 16px;
+    gap: 30px;
     flex-direction: column;
-    margin-bottom: 20px;
+    margin-bottom: 40px;
+    min-width: 300px;
 }
 
 .links {
-    background-color: aqua;
     display: flex;
     width: 100%;
     justify-content: space-between;
@@ -59,7 +64,7 @@
     white-space: nowrap;
     color: #4D4D4D;
     font-size: 18px;
-    font-weight: 500;
+    font-weight: 400;
 }
 
 .footer-bottom-section {
